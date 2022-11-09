@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Assume Zhan" />
+  <img src="https://raw.githubusercontent.com/AssumeZhan/AssumeZhan/master/name.svg" alt="Assume Zhan" />
 </h1>
 
 <p align = "center">
